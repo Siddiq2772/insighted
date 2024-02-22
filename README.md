@@ -1,2 +1,2 @@
 # insighted
-24 hr hackathon pune 2024 website
+- Developed a website Name as InsightEd an assessable edutech website in Pune hackathon 2024. This website includes features such as different courses fetching through our own firebase also saving and fetching data from our own database, also useful features such as our Compiler connected to W3school API which supports several languages such as C, C++, java, python, C# working smoothly in desktop. MAIN features were chatbot and Quiz which if passed generates certificate automatically by using an google extension. It is and responsive website . link to it https://siddiq2772.github.io/insighted/
